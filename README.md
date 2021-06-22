@@ -1,3 +1,3 @@
 # StormOrange
 [![GitHub release](https://img.shields.io/badge/Version-v1.1.0-blue)](https://github.com/Drtp234/StormOrange/releases)
-[![GitHub test](https://img.shields.io/badge/Test-8-red)
+(https://img.shields.io/badge/Test-8-red)
